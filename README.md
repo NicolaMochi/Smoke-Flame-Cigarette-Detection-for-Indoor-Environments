@@ -107,28 +107,20 @@ The project's objective — training three networks on three separate datasets, 
 
 ---
 
-## Repository Structure
 
-```
-.
-├── data/                  # dataset (not included — see Dataset section)
-├── models/                # trained weights / checkpoints
-├── src/
-│   ├── train.py           # training script
-│   ├── eval.py            # evaluation / metrics (precision, recall, mAP)
-│   └── detect.py          # inference on images/video
-├── notebooks/              # exploratory analysis, result plots
-├── docs/
-│   └── Presentazione_CVDL.pptx
-└── README.md
-```
 
-*(adapt this section to match your actual repo layout)*
 
-## Adding the demo video
 
-1. Upload the detection video directly through the GitHub web UI (drag & drop into a new issue or a PR comment — GitHub will host it and generate a `user-attachments` URL), or place it under `docs/demo.mp4` and use Git LFS if it's large.
-2. Replace the placeholder link at the top of this README with the real one.
+
+##  Demo video
+
+https://github.com/user-attachments/assets/25748dc2-4014-475c-a9d4-7653a92f971f
+
+
+
+https://github.com/user-attachments/assets/dad65cb3-3bc8-4845-84f2-f518a656b1cd
+
+
 
 ## Authors
 
