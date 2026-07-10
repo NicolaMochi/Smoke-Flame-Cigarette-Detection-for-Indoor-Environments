@@ -18,9 +18,6 @@ Multi-class object detection system for identifying **fire, smoke, and cigarette
 
 https://github.com/user-attachments/assets/e9112f3a-ec9d-4e9c-8d74-a01bc80988fd
 
-
-
-
 *(please enable full screen for better visibility)
 
 ---
