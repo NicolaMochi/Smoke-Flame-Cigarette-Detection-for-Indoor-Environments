@@ -14,9 +14,15 @@ Multi-class object detection system for identifying **fire, smoke, and cigarette
 
 ## Demo
 
+https://github.com/user-attachments/assets/25748dc2-4014-475c-a9d4-7653a92f971f
+
+
+
+https://github.com/user-attachments/assets/dad65cb3-3bc8-4845-84f2-f518a656b1cd
+
 https://github.com/user-attachments/assets/PLACEHOLDER-detection-demo.mp4
 
-*(replace with the actual video link once uploaded to the repo — see [Adding the demo video](#adding-the-demo-video) below)*
+*(please enable full screen for better visibility)
 
 ---
 
@@ -108,17 +114,6 @@ The project's objective — training three networks on three separate datasets, 
 ---
 
 
-
-
-
-
-##  Demo video
-
-https://github.com/user-attachments/assets/25748dc2-4014-475c-a9d4-7653a92f971f
-
-
-
-https://github.com/user-attachments/assets/dad65cb3-3bc8-4845-84f2-f518a656b1cd
 
 
 
