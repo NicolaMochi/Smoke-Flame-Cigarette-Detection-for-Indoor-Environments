@@ -14,13 +14,12 @@ Multi-class object detection system for identifying **fire, smoke, and cigarette
 
 ## Demo
 
-https://github.com/user-attachments/assets/25748dc2-4014-475c-a9d4-7653a92f971f
+
+
+https://github.com/user-attachments/assets/e9112f3a-ec9d-4e9c-8d74-a01bc80988fd
 
 
 
-https://github.com/user-attachments/assets/dad65cb3-3bc8-4845-84f2-f518a656b1cd
-
-https://github.com/user-attachments/assets/PLACEHOLDER-detection-demo.mp4
 
 *(please enable full screen for better visibility)
 
